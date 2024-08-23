@@ -1,0 +1,16 @@
+# Application-related files
+tests/
+fast_zero/__pycache__/
+
+# Git-related files
+.git/
+.gitignore
+README.md
+
+# Virtual Environment-related files
+poetry.lock
+pyproject.toml
+
+# Docker-related files
+Dockerfile
+.dockerignore
