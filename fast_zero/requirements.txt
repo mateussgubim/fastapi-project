@@ -1,3 +1,2 @@
 fastapi[standard]
 uvicorn[standard]
-setuptools>=70.0.0
