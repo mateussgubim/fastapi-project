@@ -1,4 +1,4 @@
-FROM python:3.12.3
+FROM python:3.12.3-alpine
 
 WORKDIR /fast_zero/fast_zero
 
